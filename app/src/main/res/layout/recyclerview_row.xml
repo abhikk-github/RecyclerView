@@ -17,7 +17,7 @@
            android:id="@+id/one_id"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
-           android:text="TextView" />
+           android:text="ID" />
 
        <TextView
            android:layout_weight="1"
@@ -26,7 +26,7 @@
            android:id="@+id/two_id"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
-           android:text="TextView" />
+           android:text="Name" />
    </LinearLayout>
 
     <View
